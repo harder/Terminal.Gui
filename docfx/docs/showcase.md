@@ -2,6 +2,9 @@
 
 ## Applications Built with Terminal.Gui
 
+- **[SkillView](https://github.com/harder/gh-skillview)** - A terminal UI and CLI for discovering, installing, updating, and managing GitHub CLI agent skills. Built with Terminal.Gui v2; install it with `gh extension install harder/gh-skillview`.
+  ![SkillView Discover screen](https://raw.githubusercontent.com/harder/gh-skillview/main/assets/screenshots/01-discover.png)
+
 - **[clet](https://github.com/tui-cs/clet)** - CLI-lets: simple CLI commands that prompt the user with rich TUI inputs (select, confirm, file picker, date, color, etc.) and return typed JSON. One binary, every prompt, JSON out. Works for humans and AI agents alike.
   ![clet](https://raw.githubusercontent.com/tui-cs/clet/develop/docs/images/hero.png)
   ⠀
